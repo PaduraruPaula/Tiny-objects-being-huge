@@ -80,10 +80,12 @@ p {
 	top:10vh;
 	left:5%;
 	padding:0;
+	
 
 }
 
 .play:hover{
+	opacity:1;
 	transform:scale(10);
 	position:absolute; 
 	left:50%;
